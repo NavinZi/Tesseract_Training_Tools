@@ -1,0 +1,10 @@
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\bin\Debug\Tesseract Box Generate and Training Data Tools.exe.config
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\bin\Debug\Tesseract Box Generate and Training Data Tools.exe
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\bin\Debug\Tesseract Box Generate and Training Data Tools.pdb
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\obj\Debug\Tesseract_Box_Generate_and_Training_Data_Tools.Form1.resources
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\obj\Debug\Tesseract_Box_Generate_and_Training_Data_Tools.Properties.Resources.resources
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\obj\Debug\Tesseract Box Generate and Training Data Tools.csproj.GenerateResource.Cache
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\obj\Debug\Tesseract Box Generate and Training Data Tools.exe
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\obj\Debug\Tesseract Box Generate and Training Data Tools.pdb
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\obj\Debug\Tesseract Box Generate and Training Data Tools.csprojAssemblyReference.cache
+D:\VS2017 Project\Tesseract Box Generate and Training Data Tools\Tesseract Box Generate and Training Data Tools\obj\Debug\Tesseract Box Generate and Training Data Tools.csproj.CoreCompileInputs.cache
